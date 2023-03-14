@@ -6,8 +6,8 @@
 
 Skills: HTML | CSS | JavaScript | Python 
 
-- 🔭 I’m currently working on tech-related internships 
-- 🌱 I’m currently learning more about front end. 
+- 🔭 I’m looking for tech-related internships!
+- 🌱 I’m currently learning more about front end.
 - 📫 How to reach me: bsherpa19@gmail.com 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
