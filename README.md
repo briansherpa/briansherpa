@@ -3,6 +3,7 @@
 ### Brian Sherpa
 #### 🚀Aspiring Software Developer (Front-End)
 ⭐  Junior at New York City College of Technology
+
 Skills: HTML | CSS | JavaScript | Python 
 
 - 🔭 I’m currently working on tech-related internships 
