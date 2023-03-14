@@ -1,9 +1,9 @@
+![](/github-header-image.png)
+
 ### Brian Sherpa
 #### 🚀Aspiring Software Developer (Front-End)
 ⭐  Junior at New York City College of Technology
 Skills: HTML | CSS | JavaScript | Python 
-
-![](/github-header-image.png)
 
 - 🔭 I’m currently working on tech-related internships 
 - 🌱 I’m currently learning more about front end. 
